@@ -1,7 +1,8 @@
 """
 Created on June 1st, 2022 - Wednesday
 
-The main function block for the best practices script practice.
+Purpose: To highlight best practices for python development by having a main function that executes the other
+         functions in the proper sequence.
 
 @author jdglassman
 """
